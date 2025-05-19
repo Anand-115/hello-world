@@ -1,3 +1,3 @@
-# hello-world
+# About me
  This repo is for practising GitHub Flow
- docs: Add a personal bio
+ Hello! My name is Anand.
